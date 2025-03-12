@@ -1,5 +1,6 @@
 # CC-100-Monolingual-Datasets-from-Web-Crawl-Data
 
+Origina Link: https://data.statmt.org/cc-100/
 
 This corpus is an attempt to recreate the dataset used for training <a href="https://www.aclweb.org/anthology/2020.acl-main.747.pdf">XLM-R</a>. This corpus comprises of monolingual data for 100+ languages and also includes data for romanized languages (indicated by *_rom). 
 This was constructed using the urls and paragraph indices provided by the <a href="https://github.com/facebookresearch/cc_net">CC-Net repository</a> by processing January-December 2018 Commoncrawl snapshots. 
